@@ -24,7 +24,7 @@ const projects = [
     name: "Tinder Clone",
     description:
       "This Mobile app has SignUps, Swiping and Matching, and Real-time Chatting with great UI and useMemo. Tech: React Native, Expo, Firebase, Tailwind.",
-    image: "/tinder.png",
+    image: "/Tinder.png",
     github: "https://github.com/hqasmei/katorfamilyphotos",
     link: "https://www.youtube.com/watch?v=PdPoZLLXtUY&ab_channel=AbhiramSatpute",
   },
@@ -32,7 +32,7 @@ const projects = [
     name: "Blockchain: Kudos Giver",
     description:
       "This smart contract aims to give official, tamper-proof and immutable kudos/testimonials, similar to LinkedIn Recommendations.",
-    image: "/kudos.png",
+    image: "/Kudos.png",
     github: "https://github.com/abhiram11/Simple-Concepts-and-Insights/blob/master/kudos.sol",
     link: "https://www.youtube.com/watch?v=sarcae80h04&ab_channel=AbhiramSatpute",
   },
