@@ -24,7 +24,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               Full Stack Blockchain Engineer{" "}
             </span>
-            based in India. I&#39;ve been developing software for 6+ years with the
+            based in India. I&#39;ve been developing software and personal projects since 8+ years with the
             aim to make life easier and more meaningful.
           </p>
           <Link
