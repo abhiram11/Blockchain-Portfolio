@@ -35,7 +35,7 @@ const AboutSection = () => {
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
               <span className="font-bold">{" driven"}</span> Software Engineer
-              based in India.
+              based in India. <b> Note: Please check my Github for latest profile and skillset.</b>
             </p>
             <br />
             <p>
